@@ -1,4 +1,4 @@
-# HandfulPlugin
+# Helpful
 The Beta Version Of Helpful Plugin v1.0.0
 
 Welcome to HelpfulPlugin,
